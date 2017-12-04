@@ -29,3 +29,7 @@ npm run build
 * datatables
 * Authentication, login, register, forgotpassword, resetpassword included
 * User management, Multi role, CRUD example
+
+Info
+------------
+Base template is from https://github.com/misterGF/CoPilot
