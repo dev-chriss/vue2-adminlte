@@ -2,7 +2,6 @@
   "name": "vue2-adminlte",
   "version": "0.0.1",
   "description": "Admin template based on AdminLTE with vue.js",
-  "author": "Christian Setyawan <chris_setyawan@yahoo.com>",
   "repository": "https://github.com/chrissetyawan/vue2-adminlte",
   "license": "MIT",
   "scripts": {
