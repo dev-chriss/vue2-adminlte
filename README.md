@@ -3,7 +3,8 @@
 #### live demo : http://vue2-adminlte.setyawan.pro
 
 Bootstrap 3 Admin Template based on AdminLTE integrate with vuejs,
-for backend im using laravel 5.5 rest api as example
+
+for backend im using [laravel 5.5 rest api](https://github.com/chrissetyawan/laravel55-restapi/)
 
 ## Build Setup
 
