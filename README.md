@@ -2,6 +2,8 @@
 
 #### live demo : http://vue2-adminlte.setyawan.pro
 
+Bootstrap 3 Admin Template based on AdminLTE integrate with vuejs,
+for backend im using laravel 5.5 rest api as example
 
 ## Build Setup
 
@@ -18,6 +20,12 @@ npm run build
 ```
 #### Feature
 
+* vue-toastr - nice toast
+* vuejs-dialog
+* Axios
+* Vue-Router 
+* Vuex 
+* vee-validate
+* datatables
 * Authentication, login, register, forgotpassword, resetpassword included
-* Toast
-* Dialog confirmation
+* User management, Multi role, CRUD example
